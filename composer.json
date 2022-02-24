@@ -1,0 +1,17 @@
+{
+    "name": "marcelo/crud-php",
+    "description": "crud php treinamento",
+    "authors": [
+        {
+            "name": "Marcelo Modesto Costa",
+            "email": "marcelomodesto@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+
+}
